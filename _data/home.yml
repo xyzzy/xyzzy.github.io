@@ -10,21 +10,22 @@ navbar_entries:
 
 project_entries:
   - title: qrpicture
+    thumb: assets/qrpicture-124x124.png
     url: https://github.com/xyzzy/qrpicture
     desc: "Picture to QR code converter hosted on www.QRpicture.com"
-    highlight: "starred"
 
   - title: smile
+    thumb: assets/smile-124x124.png
     url: https://github.com/xyzzy/smile
     desc: "When ASCII art is the executable"
-    highlight: "starred"
 
   - title: bezeye
+    thumb: assets/bezeye-220x124.png
     url: https://github.com/xyzzy/bezeye
-    desc: "Animated GIF showcasing Bezier Curve Texture+Movement and Spatial Color Quantization"
-    highlight: "starred"
+    desc: "Bezier Curve Texture+Movement and Spatial Color Quantization"
 
   - title: emotions
+    thumb: assets/emotions-220x124.png
     url: https://github.com/xyzzy/emotions
     desc: "Lava lamp art with interactive shader rendering"
 
