@@ -42,6 +42,7 @@ project_entries:
     desc: "Ultra fast GIF encoder written in JavaScript"
 
   - title: jsFlightSim
+    thumb: assets/jsFlightSim-220x124.png
     url: https://github.com/xyzzy/jsFlightSim
     desc: "Flight simulator written in javascript"
 
