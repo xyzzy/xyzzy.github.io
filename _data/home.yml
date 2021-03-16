@@ -9,50 +9,50 @@ navbar_entries:
     url: http://website
 
 project_entries:
-  - title: qrpicture
+  - title: "qrpicture"
     thumb: assets/qrpicture-124x124.png
     url: https://github.com/xyzzy/qrpicture
     desc: "Picture to QR code converter hosted on www.QRpicture.com"
 
-  - title: smile
+  - title: "smile"
     thumb: assets/smile-124x124.png
     url: https://github.com/xyzzy/smile
     desc: "When ASCII art is the executable"
 
-  - title: bezeye
+  - title: "bezeye"
     thumb: assets/bezeye-220x124.png
     url: https://github.com/xyzzy/bezeye
     desc: "Bezier Curve Texture+Movement and Spatial Color Quantization"
 
-  - title: emotions
+  - title: "emotions"
     thumb: assets/emotions-220x124.png
     url: https://github.com/xyzzy/emotions
     desc: "Lava lamp art with interactive shader rendering"
 
-  - title: scripted-svg
+  - title: "scripted-svg"
     url: https://github.com/xyzzy/scripted-svg
     desc: "Javascript animated SVG graphics"
 
-  - title: realDPI
+  - title: "realDPI"
     url: https://github.com/xyzzy/realDPI
     desc: "Finding your physical screen resolution by using moiré patterns"
 
-  - title: jsGifEncoder
+  - title: "jsGifEncoder"
     url: https://github.com/xyzzy/jsGifEncoder
     desc: "Ultra fast GIF encoder written in JavaScript"
 
-  - title: jsFlightSim
+  - title: "jsFlightSim"
     thumb: assets/jsFlightSim-220x124.png
     url: https://github.com/xyzzy/jsFlightSim
     desc: "Flight simulator written in javascript"
 
-  - title: jigsaw
+  - title: "jigsaw"
     url: https://github.com/xyzzy/jigsaw
-    desc: "Create crossword puzzles (Winner the SPRING 1996 POTM, Crozzle)"
+    desc: "Create crossword puzzles (Winner of the spring 1996 POTM, Crozzle)"
 
 footer_entries:
-  - title: xyzzy's homepage
+  - title: "xyzzy's homepage"
     url: https://xyzzy.github.io
 
-  - title: github
+  - title: "xyzzy@github"
     url: https://github.com/xyzzy
