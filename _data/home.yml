@@ -16,7 +16,7 @@ project_entries:
 
   - title: "emotions"
     thumb: assets/emotions-220x124.png
-    url: https://xyzzy.github.io/emotions/index2.html
+    url: https://xyzzy.github.io/emotions/README.html
     desc: "Interactive lava lamp art"
 
   - title: "scripted-svg"
@@ -29,12 +29,12 @@ project_entries:
 
   - title: "jsGifEncoder"
     thumb: assets/jsGifEncoder-124x124.png
-    url: https://github.com/xyzzy/jsGifEncoder
+    url: https://github.com/xyzzy/jsGifEncoder/README.html
     desc: "Ultra-fast GIF encoder for data URL written in JavaScript"
 
   - title: "jsFlightSim"
     thumb: assets/jsFlightSim-220x124.png
-    url: https://xyzzy.github.io/jsFlightSim/
+    url: https://xyzzy.github.io/jsFlightSim/README.html
     desc: "A flight simulator written in javascript"
 
   - title: "jigsaw"
