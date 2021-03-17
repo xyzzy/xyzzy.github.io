@@ -14,6 +14,7 @@ theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "&#x2343; home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
+  show_title: true # show title in home page
   show_description: false # show blog description in home page
   show_navbar: false # show horizontal navbar in home page
   show_footer: true # show footer links in home page,add in _data/home.yml

@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-17 01:24:37 Changed: `jsFlightSim-220x124.png`.
 2021-03-16 20:48:52 Changed: page footer.
 2021-03-16:19:52:00 Added: card thumbs.
 2021-03-16 18:49:09 Added: blog posts.

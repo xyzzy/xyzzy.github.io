@@ -1,13 +1,3 @@
-navbar_entries:
-  - title: about
-    url: about
-
-  - title: blog
-    url: blog
-
-  - title: website
-    url: http://website
-
 project_entries:
   - title: "qrpicture"
     thumb: assets/qrpicture-124x124.png
@@ -43,8 +33,8 @@ project_entries:
 
   - title: "jsFlightSim"
     thumb: assets/jsFlightSim-220x124.png
-    url: https://github.com/xyzzy/jsFlightSim
-    desc: "Flight simulator written in javascript"
+    url: https://xyzzy.github.io/jsFlightSim/
+    desc: "A flight simulator written in javascript"
 
   - title: "jigsaw"
     url: https://github.com/xyzzy/jigsaw
