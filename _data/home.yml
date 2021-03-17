@@ -28,8 +28,9 @@ project_entries:
     desc: "Finding your physical screen resolution by using moiré patterns"
 
   - title: "jsGifEncoder"
+    thumb: assets/jsGifEncoder-124x124.png
     url: https://github.com/xyzzy/jsGifEncoder
-    desc: "Ultra fast GIF encoder written in JavaScript"
+    desc: "Ultra-fast GIF encoder for data URL written in JavaScript"
 
   - title: "jsFlightSim"
     thumb: assets/jsFlightSim-220x124.png
