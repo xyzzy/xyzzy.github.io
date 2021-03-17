@@ -29,7 +29,7 @@ project_entries:
 
   - title: "jsGifEncoder"
     thumb: assets/jsGifEncoder-124x124.png
-    url: https://github.com/xyzzy/jsGifEncoder/README.html
+    url: https://xyzzy.github.io/jsGifEncoder/README.html
     desc: "Ultra-fast GIF encoder for data URL written in JavaScript"
 
   - title: "jsFlightSim"

@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-17 23:36:16 Fixed: `jsGifEncoder/README.html`.
 2021-03-17 22:54:18 Changed: urls to `README.html`.
 2021-03-17 21:12:07 Changed: `emotions` url.
 2021-03-17 16:37:52 Added: `jsGifEncoder-124x124.png`.

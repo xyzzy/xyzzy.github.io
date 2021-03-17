@@ -1,6 +1,6 @@
 ---
 layout: home
-image: /assets/avatar.gif
+image: assets/avatar.gif
 ---
 
 Some Description
