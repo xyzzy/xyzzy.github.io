@@ -16,8 +16,8 @@ project_entries:
 
   - title: "emotions"
     thumb: assets/emotions-220x124.png
-    url: https://github.com/xyzzy/emotions
-    desc: "Lava lamp art with interactive shader rendering"
+    url: https://xyzzy.github.io/emotions/index2.html
+    desc: "Interactive lava lamp art"
 
   - title: "scripted-svg"
     url: https://github.com/xyzzy/scripted-svg
