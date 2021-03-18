@@ -6,9 +6,6 @@ description: Welcome to my stuff
 # jekyll settings
 remote_theme: RockingShip/moonwalk
 
-# jekyll SEO
-image: /assets/avatar.gif
-
 # moonwalk
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
@@ -16,7 +13,7 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_title: true # show title in home page
   show_description: false # show blog description in home page
-  show_navbar: false # show horizontal navbar in home page
+  show_navbar: true # show horizontal navbar in home page
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog add in _posts

@@ -1,5 +1,14 @@
+navbar_entries:
+  - title: "xyzzy@github"
+    url: https://github.com/xyzzy
+
 project_entries:
-  - title: "qrpicture"
+  - title: "Gaia2"
+    thumb: assets/gaia2-220x124.png
+    url: https://github.com/xyzzy/gaia2
+    desc: "A colour particle simulator and chaos generator"
+
+  - title: "QRpicture"
     thumb: assets/qrpicture-124x124.png
     url: https://github.com/xyzzy/qrpicture
     desc: "Picture to QR code converter hosted on www.QRpicture.com"
@@ -42,8 +51,5 @@ project_entries:
     desc: "Create crossword puzzles (Winner of the spring 1996 POTM, Crozzle)"
 
 footer_entries:
-  - title: "xyzzy's homepage"
-    url: https://xyzzy.github.io
-
   - title: "xyzzy@github"
     url: https://github.com/xyzzy

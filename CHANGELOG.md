@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-18 01:54:43 Added: `gaia2-220x124.png`.
 2021-03-17 23:36:16 Fixed: `jsGifEncoder/README.html`.
 2021-03-17 22:54:18 Changed: urls to `README.html`.
 2021-03-17 21:12:07 Changed: `emotions` url.
