@@ -33,7 +33,7 @@ project_entries:
     thumb: assets/scripted-svg.svg
     embed: "<embed src=\"https://xyzzy.github.io/assets/scripted-svg.svg\" type=\"image/svg+xml\" width=\"220\" height=\"124\">"
     url: https://xyzzy.github.io/scripted-svg/README.html
-    desc: "You can grab and drag the dots in the SVG above"
+    desc: "Grab and drag the pads in the SVG above"
 
   - title: "realDPI"
     thumb: assets/realDPI-220x124.png
