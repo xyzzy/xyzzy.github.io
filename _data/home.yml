@@ -7,6 +7,7 @@ project_entries:
     thumb: assets/gaia2-220x124.png
     url: https://github.com/xyzzy/gaia2
     desc: "A colour particle simulator and chaos generator"
+    highlight: WIP
 
   - title: "QRpicture"
     thumb: assets/qrpicture-124x124.png
@@ -47,7 +48,8 @@ project_entries:
     desc: "A flight simulator written in javascript"
 
   - title: "jigsaw"
-    url: https://github.com/xyzzy/jigsaw
+    thumb: assets/jigsaw-220x124.png
+    url: https://xyzzy.github.io/jigsaw/README.html
     desc: "Create crossword puzzles (Winner of the spring 1996 POTM, Crozzle)"
 
 footer_entries:

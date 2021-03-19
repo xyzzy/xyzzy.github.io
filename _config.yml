@@ -8,7 +8,7 @@ remote_theme: RockingShip/moonwalk
 
 # moonwalk
 theme_config:
-  appearance: "light" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "&#x2343; home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_title: true # show title in home page
