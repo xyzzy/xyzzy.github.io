@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-19 18:14:02 Changed: `bezeye` url.
 2021-03-19 17:11:28 Added: `scripted-svg.svg`.
 2021-03-19 02:08:03 Added: `realDPI-220x124.png`.
 2021-03-19 01:04:42 Added: `jigsaw-220x124.png`.

@@ -21,8 +21,8 @@ project_entries:
 
   - title: "bezeye"
     thumb: assets/bezeye-220x124.png
-    url: https://github.com/xyzzy/bezeye
-    desc: "Bezier Curve Texture+Movement and Spatial Color Quantization"
+    url: https://xyzzy.github.io/bezeye/README.html
+    desc: "Bézier curve texture+movement and Spatial Color Quantization"
 
   - title: "emotions"
     thumb: assets/emotions-220x124.png
