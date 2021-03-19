@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-19 17:11:28 Added: `scripted-svg.svg`.
 2021-03-19 02:08:03 Added: `realDPI-220x124.png`.
 2021-03-19 01:04:42 Added: `jigsaw-220x124.png`.
 2021-03-18 02:14:52 Changed: Replaced `qrpicture-124x124.png`.
@@ -19,6 +20,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 2021-03-16 20:48:52 Changed: page footer.
 2021-03-16:19:52:00 Added: card thumbs.
 2021-03-16 18:49:09 Added: blog posts.
-2021-03-16 18:45:00 Added: moomwalk theme.
+2021-03-16 18:45:00 Added: moonwalk theme.
 2021-03-14 23:33:00 Initial commit.
 ```

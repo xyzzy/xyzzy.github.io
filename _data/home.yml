@@ -30,8 +30,10 @@ project_entries:
     desc: "Interactive lava lamp art"
 
   - title: "scripted-svg"
-    url: https://github.com/xyzzy/scripted-svg
-    desc: "Javascript animated SVG graphics"
+    thumb: assets/scripted-svg.svg
+    embed: "<embed src=\"https://xyzzy.github.io/assets/scripted-svg.svg\" type=\"image/svg+xml\" width=\"220\" height=\"124\">"
+    url: https://xyzzy.github.io/scripted-svg/README.html
+    desc: "You can grab and drag the dots in the SVG above"
 
   - title: "realDPI"
     thumb: assets/realDPI-220x124.png
