@@ -34,6 +34,7 @@ project_entries:
     desc: "Javascript animated SVG graphics"
 
   - title: "realDPI"
+    thumb: assets/realDPI-220x124.png
     url: https://github.com/xyzzy/realDPI
     desc: "Finding your physical screen resolution by using moiré patterns"
 
@@ -50,7 +51,7 @@ project_entries:
   - title: "jigsaw"
     thumb: assets/jigsaw-220x124.png
     url: https://xyzzy.github.io/jigsaw/README.html
-    desc: "Create crossword puzzles (Winner of the spring 1996 POTM, Crozzle)"
+    desc: "Create crossword puzzles (Winner of the 1996 spring POTM, Crozzle)"
 
 footer_entries:
   - title: "xyzzy@github"

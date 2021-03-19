@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-19 02:08:03 Added: `realDPI-220x124.png`.
 2021-03-19 01:04:42 Added: `jigsaw-220x124.png`.
 2021-03-18 02:14:52 Changed: Replaced `qrpicture-124x124.png`.
 2021-03-18 01:54:43 Added: `gaia2-220x124.png`.
