@@ -16,7 +16,7 @@ project_entries:
 
   - title: "smile"
     thumb: assets/smile-124x124.png
-    url: https://github.com/xyzzy/smile
+    url: https://xyzzy.github.io/smile/README.html
     desc: "When ASCII art is the executable"
 
   - title: "bezeye"
