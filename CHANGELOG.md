@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-20 00:14:03 Changed: `gaia2` url.
 2021-03-20 00:14:03 Changed: `smile` url.
 2021-03-19 18:17:20 Changed: `scripted-svg` title.
 2021-03-19 18:14:02 Changed: `bezeye` url.

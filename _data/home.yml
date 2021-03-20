@@ -5,7 +5,7 @@ navbar_entries:
 project_entries:
   - title: "Gaia2"
     thumb: assets/gaia2-220x124.png
-    url: https://github.com/xyzzy/gaia2
+    url: https://xyzzy.github.io/Gaia2/README.html
     desc: "A colour particle simulator and chaos generator"
     highlight: WIP
 
