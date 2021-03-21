@@ -37,8 +37,8 @@ project_entries:
 
   - title: "realDPI"
     thumb: assets/realDPI-220x124.png
-    url: https://github.com/xyzzy/realDPI
-    desc: "Finding your physical screen resolution by using moiré patterns"
+    url: https://xyzzy.github.io/realDPI/README.html
+    desc: "Finding the physical screen resolution by using moiré patterns"
 
   - title: "jsGifEncoder"
     thumb: assets/jsGifEncoder-124x124.png
