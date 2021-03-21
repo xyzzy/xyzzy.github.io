@@ -2,6 +2,9 @@ navbar_entries:
   - title: "xyzzy@github"
     url: https://github.com/xyzzy
 
+  - title: "showcase@RockingShip"
+    url: https://rockingship.github.io/
+
 project_entries:
   - title: "Gaia2"
     thumb: assets/gaia2-220x124.png
@@ -58,3 +61,6 @@ project_entries:
 footer_entries:
   - title: "xyzzy@github"
     url: https://github.com/xyzzy
+
+  - title: "showcase@RockingShip"
+    url: https://rockingship.github.io/
