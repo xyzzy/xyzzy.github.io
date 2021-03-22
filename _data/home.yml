@@ -2,6 +2,9 @@ navbar_entries:
   - title: "xyzzy@github"
     url: https://github.com/xyzzy
 
+  - title: "blog"
+    url: "#blog"
+
   - title: "showcase@RockingShip"
     url: https://rockingship.github.io/
 
@@ -61,6 +64,9 @@ project_entries:
 footer_entries:
   - title: "xyzzy@github"
     url: https://github.com/xyzzy
+
+  - title: "blog"
+    url: "#blog"
 
   - title: "showcase@RockingShip"
     url: https://rockingship.github.io/
