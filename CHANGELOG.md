@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-22 02:13:24 Added: `cerberus-32-anim.gif`.
 2021-03-21 19:16:35 Added: Navbar link to rockingship.
 2021-03-21 12:05:35 Changed: `realDPI` url.
 2021-03-20 17:00:00 Changed: `gaia2` url.
