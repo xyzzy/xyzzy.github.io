@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-26 18:07:58 Added: Icons in navbar.
 2021-03-23 17:41:27 Changed: Order items in navbar.
 2021-03-22 19:30:56 Added: blog to navbar.
 2021-03-22 02:13:24 Added: `cerberus-32-anim.gif`.

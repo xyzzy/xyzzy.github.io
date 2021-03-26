@@ -2,10 +2,10 @@ navbar_entries:
   - title: "blog"
     url: "#blog"
 
-  - title: "xyzzy@github"
+  - title: "xyzzy <div class=\"GitHub-mark\"></div>"
     url: https://github.com/xyzzy
 
-  - title: "showcase@RockingShip"
+  - title: "showcase <div class=\"RockingShip-mark\"></div>"
     url: https://rockingship.github.io/
 
 project_entries:
@@ -17,7 +17,7 @@ project_entries:
 
   - title: "QRpicture"
     thumb: assets/qrpicture-124x124.png
-    url: https://github.com/xyzzy/qrpicture
+    url: https://xyzzy.github.io/qrpicture/README.html
     desc: "Picture to QR code converter hosted on www.QRpicture.com"
 
   - title: "smile"
@@ -39,7 +39,7 @@ project_entries:
     thumb: assets/scripted-svg.svg
     embed: "<embed src=\"https://xyzzy.github.io/assets/scripted-svg.svg\" type=\"image/svg+xml\" width=\"220\" height=\"124\">"
     url: https://xyzzy.github.io/scripted-svg/README.html
-    desc: "Grab and drag the pads in the SVG above"
+    desc: "Grab and drag the pads in the image above"
 
   - title: "realDPI"
     thumb: assets/realDPI-220x124.png
@@ -61,12 +61,23 @@ project_entries:
     url: https://xyzzy.github.io/jigsaw/README.html
     desc: "Create crossword puzzles (Winner of the 1996 spring POTM, Crozzle)"
 
+#oldproject_entries:
+# - title: "ATW800"
+#    thumb: assets/cerberus-220x124.png
+#   url: https://xyzzy.github.io/cerberus/README.html
+#    desc: "Atari Transputer Workstation"
+
+#  - title: "Cerberus"
+#    thumb: assets/cerberus-220x124.png
+#    url: https://xyzzy.github.io/cerberus/README.html
+#    desc: "Cerberus embedded"
+
 footer_entries:
   - title: "blog"
     url: "#blog"
 
-  - title: "xyzzy@github"
+  - title: "xyzzy <div class=\"GitHub-mark\"></div>"
     url: https://github.com/xyzzy
 
-  - title: "showcase@RockingShip"
+  - title: "showcase <div class=\"RockingShip-mark\"></div>"
     url: https://rockingship.github.io/
