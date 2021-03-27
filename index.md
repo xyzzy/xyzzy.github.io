@@ -1,6 +1,6 @@
 ---
 layout: home
-image: assets/avatar.gif
+image: assets/xyzzy-209x209.jpg
 ---
 
 Combining the best of many worlds.

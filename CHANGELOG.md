@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-03-26 23:53:38 Added: `assets/xyzzy-209x209.jpg`.
 2021-03-26 19:56:44 Added: blog: `jsFractalZoom`.
 2021-03-26 18:07:58 Added: Icons in navbar.
 2021-03-23 17:41:27 Changed: Order items in navbar.

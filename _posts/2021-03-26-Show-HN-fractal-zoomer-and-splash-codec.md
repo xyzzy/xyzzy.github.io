@@ -14,7 +14,7 @@ Enjoy!
 ```
   [0] https://RockingShip.github.io/jsFractalZoom/README.html       - README
   [1] https://RockingShip.github.io/jsFractalZoom                   - Direct link to the zoomer (for the impatient)
-  [2] https://RockingShip.github.io/jsFractalZoom-media/README.html - 4G zoomer gallery and splash demos
+  [2] https://RockingShip.github.io/jsFractalZoom-media/README.html - 4K zoomer gallery and splash demos
 ```
 
 [https://news.ycombinator.com/item?id=26596416](https://news.ycombinator.com/item?id=26596416)
