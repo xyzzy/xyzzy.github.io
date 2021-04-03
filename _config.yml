@@ -2,7 +2,7 @@ title: Xyzzy's showcase
 author: "xyzzy@RockingShip.org"
 url: https://xyzzy.github.io # root address of the site
 description: Welcome to my stuff
-favicon: assets/cerberus-32-anim.gif
+favicon: assets/xyzzy-32x32.anim.gif
 
 # jekyll settings
 remote_theme: RockingShip/moonwalk
