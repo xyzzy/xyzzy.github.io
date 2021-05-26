@@ -9,6 +9,11 @@ navbar_entries:
     url: https://rockingship.github.io/
 
 project_entries:
+  - title: "cppjson"
+    thumb: assets/cpp2json-220x124.png
+    url: https://xyzzy.github.io/cpp2json/README.html
+    desc: "Single statement JSON creation"
+
   - title: "Gaia2"
     thumb: assets/gaia2-220x124.png
     url: https://xyzzy.github.io/Gaia2/README.html
