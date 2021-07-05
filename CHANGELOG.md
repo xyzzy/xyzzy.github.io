@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-07-05 16:36:44 Added: Blog entries.
 2021-07-05 16:28:08 Added: Project `cerberus`.
 2021-07-05 16:21:28 Added: Project `retro-console`.
 2021-05-26 00:41:44 Added: Project `cpp2json`.

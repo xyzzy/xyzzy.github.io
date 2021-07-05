@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: Fractal zoomer and splash codec"
+title: "Show HN: Splash – Fractal zooming with a paint brush as video encoding"
 ---
 
 What started as a simple project to explore advanced javascript optimisations turned into something really big.  
@@ -17,4 +17,4 @@ Enjoy!
   [2] https://RockingShip.github.io/jsFractalZoom-media/README.html - 4K zoomer gallery and splash demos
 ```
 
-[https://news.ycombinator.com/item?id=26596416](https://news.ycombinator.com/item?id=26596416)
+[https://news.ycombinator.com/item?id=27635794](https://news.ycombinator.com/item?id=27635794)
