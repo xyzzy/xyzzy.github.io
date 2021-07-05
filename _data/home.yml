@@ -72,6 +72,11 @@ oldproject_entries:
    url: https://xyzzy.github.io/retro-console/README.html
     desc: "A tribute to the Golden Age of video games"
 
+ - title: "cerberus (2001)"
+     thumb: assets/cerberus-220x124.png
+   url: https://xyzzy.github.io/cerberus/README.html
+     desc: "Single board computing"
+
 # - title: "ATW800"
 #    thumb: assets/cerberus-220x124.png
 #   url: https://xyzzy.github.io/cerberus/README.html
