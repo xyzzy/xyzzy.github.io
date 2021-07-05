@@ -66,7 +66,12 @@ project_entries:
     url: https://xyzzy.github.io/jigsaw/README.html
     desc: "Create crossword puzzles (Winner of the 1996 spring POTM, Crozzle)"
 
-#oldproject_entries:
+oldproject_entries:
+ - title: "retro-console (2016)"
+    thumb: assets/retro-console-124x124.png
+   url: https://xyzzy.github.io/retro-console/README.html
+    desc: "A tribute to the Golden Age of video games"
+
 # - title: "ATW800"
 #    thumb: assets/cerberus-220x124.png
 #   url: https://xyzzy.github.io/cerberus/README.html

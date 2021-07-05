@@ -1,4 +1,4 @@
-# Changelog
+# Change log
 
 All notable changes to this project will be documented in this file.
 
@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## Unreleased
 
 ```
+2021-07-05 16:21:28 Added: Project `retro-console`.
 2021-05-26 00:41:44 Added: Project `cpp2json`.
 2021-04-19 23:34:53 Added: Backlink to RockingShip.
 2021-04-03 19:44:06 Changed: Resized `scripted-svg.svg`.
