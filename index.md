@@ -3,9 +3,9 @@ layout: home
 image: assets/xyzzy-209x209.jpg
 ---
 
-Combining the best of many worlds.
+Combining the best of many worlds with a high dose of out-of-the-box thinking.
 
-Educated in both software and hardware, with a close relationship to bare metal, seamless ranging from FPGA to the stuff you fill find in the showcase.
+Educated in both software and hardware, with a close relationship to bare metal, distributed, and high performance. Seamless ranging from FPGA to the stuff you will find in the showcase.
 
 Currently working on fractal logic and computing, together with support projects found on [RockingShip](https://RockingShip.github.io).
 
